@@ -1,7 +1,7 @@
 # deb9
 
 
-installation:
+#installation:
 
 apt-get update
 
@@ -11,6 +11,6 @@ git clone https://github.com/gmlorenz/deb9.git
 
 cd deb9
 
-chmod +x deb.sh
+chmod +x deb9.sh
 
-./deb.sh
+./deb9.sh
